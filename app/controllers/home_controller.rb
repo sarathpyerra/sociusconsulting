@@ -9,4 +9,7 @@ class HomeController < ApplicationController
     flash[:notice] = "Thank you for your message!"
     redirect_to root_path
   end
+
+  def landing
+  end
 end
