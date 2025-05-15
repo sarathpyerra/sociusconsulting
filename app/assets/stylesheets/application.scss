@@ -24,16 +24,20 @@
 }*/
 
 footer {
-  background-color: #f8f9fa;
+  background-color: black;
   padding: 10px;
   text-align: center;
   position: relative;
   bottom: 0;
   width: 100%;
+  color: #FFD700 !important;
+  a {
+    color: #FFD700 !important;
+  }
 }
 
 .navbar {
-	background-color: #1183A8 !important;
+	background-color: #141A1F !important;
 }
 
 .nav-link {
