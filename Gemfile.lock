@@ -111,7 +111,8 @@ GEM
     drb (2.2.1)
     erubi (1.13.1)
     execjs (2.10.0)
-    ffi (1.17.1)
+    ffi (1.17.1-x86_64-darwin)
+    ffi (1.17.1-x86_64-linux-gnu)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.7)
@@ -275,7 +276,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.0.7p220
+   ruby 3.2.8p263
 
 BUNDLED WITH
    2.2.33
